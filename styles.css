@@ -9,8 +9,8 @@
 
     /* Animations */
     --float-duration: 15s;
-    --float-distance: 50px;
-    --bounce-speed: 0.5s;
+    --float-distance: 45px;
+    --bounce-speed: 0.3s;
     --heart-explosion-size: 1.5;
 }
 
@@ -93,7 +93,7 @@ body {
     margin-top: 0;
     opacity: 0.2;
     transition: opacity 0.3s;
-    transform: scale(0.7);
+    transform: scale(1.2);
     z-index: 2;
     animation: subtle-hint 2s infinite alternate;
     animation-delay: 5s;

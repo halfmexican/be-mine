@@ -28,12 +28,12 @@ const CONFIG = {
             secretAnswer: "I don't like you. I love you! ❤️"           // Secret hover message
         },
         second: {
-            text: "¿How much?",                          // For the love meter
+            text: "¿How much Baby?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Mi sol, mi Callie... ¿Will you be my Valentine on February 14th, 2026? 🌹☀️", // The big question!
+            text:  "mi Callie... ¿Will you be my Valentine on February 14th, 2026? 🌹☀️", // The big question!
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest guy on earth today :",
-        message: "Now I need to come bring you your gift in person, a big warm hug and a huge kiss",
+        message: "I need to come bring you your gift in person, a big warm hug and a huge kiss",
         emojis: "💋❤️🌞☀️🌺💃"  // Added Spanish flair with sun and hibiscus
     },
 

@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest guy on earth today :",
         message: "Now I need to come bring you your gift in person, a big warm hug and a huge kiss",
-        emojis: "🎁💖🤗💝💋❤️💕🌞☀️🌺💃"  // Added Spanish flair with sun and hibiscus
+        emojis: "💋❤️🌞☀️🌺💃"  // Added Spanish flair with sun and hibiscus
     },
 
     // Color scheme inspired by the sun ☀️

@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Oye mi sol ☀️... ¿Do you like me?",                                    // First interaction with Spanglish
+            text: "¿Do you like me?",                                    // First interaction with Spanglish
             yesBtn: "Sí",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you. I love you! ❤️"           // Secret hover message
